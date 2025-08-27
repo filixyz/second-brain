@@ -7,5 +7,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "vimMode": true
 }

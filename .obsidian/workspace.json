@@ -11,10 +11,14 @@
             "id": "fc4304539e150680",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4.0 Synchronizing concurrent operations"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "placebo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70a8f35661ddeb08",
@@ -165,9 +170,34 @@
   },
   "active": "fc4304539e150680",
   "lastOpenFiles": [
+    "concurrency_in_action/src/imgs/thread_safe.png",
+    "concurrency_in_action/src/imgs/std-queue.png",
+    "tour_of_cpp_bjarne/18. Concurrency.md",
+    "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
+    "concurrency_in_action/3.0 Sharing data between threads.md",
+    "intro_to_java_daniel_liang/Chapter 7. Single Dimensional Arrays.md",
+    "intro_to_java_daniel_liang/Chapter 8. Multidimensional Arrays.md",
+    "intro_to_java_daniel_liang/Chapter 9. Object and Classes.md",
+    "intro_to_java_daniel_liang/Chapter 11. Inheritance and Polymorphism.md",
+    "intro_to_java_daniel_liang/Chapter 12. Exception Handling and Text I O.md",
+    "intro_to_java_daniel_liang/Chapter 14. JavaFx Basics.md",
+    "intro_to_java_daniel_liang/Chapter 15 Event-Driven Programming and Animations.md",
+    "intro_to_java_daniel_liang/Chapter 16. Java UI Control and multimedia.md",
+    "intro_to_java_daniel_liang/Chapter 17 Binary I-O.md",
+    "intro_to_java_daniel_liang/Chapter 20->30 (Refresher) Data Structures in Java.md",
+    "intro_to_java_daniel_liang/Chapter 1.  Introduction to Computers, Programs and java..md",
+    "2025 GOALS.md",
+    "Books/Computer Architecture and Operating Systems/Computer Organization and Design- The Hardware_Software Interface.pdf",
+    "Books/Computer Architecture and Operating Systems/Digital Design Global Edition (Michael Ciletti M. Morris Mano) (Z-Library).pdf",
+    "concurrency_in_action/src/imgs/interface_race.png",
+    "concurrency_in_action/src/imgs",
+    "concurrency_in_action/src",
+    "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
+    "Untitled.md",
+    "concurrency_in_action",
+    "Books/Untitled",
     "tour_of_cpp_bjarne/src/imgs/type-gens.png",
     "tour_of_cpp_bjarne/END.md",
-    "tour_of_cpp_bjarne/18. Concurrency.md",
     "tour_of_cpp_bjarne/17. Numerics.md",
     "intro_to_java_daniel_liang/MOOC Java Course Notes/Part 1/03. Reading Input.md",
     "tour_of_cpp_bjarne/10. Strings and Regular Expressions.md",
@@ -175,41 +205,17 @@
     "tour_of_cpp_bjarne/src/chapter-17/main.cpp",
     "tour_of_cpp_bjarne/src/chapter-17/rando_int.cpp",
     "tour_of_cpp_bjarne/src/chapter-17/rando.h",
-    "tour_of_cpp_bjarne/src/chapter-17/a.out",
-    "tour_of_cpp_bjarne/src/chapter-17/rando.cpp",
-    "tour_of_cpp_bjarne/src/chapter-17",
     "tour_of_cpp_bjarne/16. Utilities.md",
     "tour_of_cpp_bjarne/05. Classes.md",
     "tour_of_cpp_bjarne/15. Pointers and Containers.md",
     "tour_of_cpp_bjarne/14. Ranges.md",
-    "Books/Computer Architecture A Quantitative Approach (John L. Hennessy, David A. Patterson) (Z-Library).pdf",
-    "tour_of_cpp_bjarne/13. Algorithms.md",
     "tour_of_cpp_bjarne/src/imgs/algo_iter_cntr_Model.png",
-    "tour_of_cpp_bjarne/12. Containers.md",
     "tour_of_cpp_bjarne/src/imgs/unoderedmap.png",
     "tour_of_cpp_bjarne/src/imgs/map.png",
     "tour_of_cpp_bjarne/src/imgs/list.png",
-    "tour_of_cpp_bjarne/11. Input and Output.md",
     "tour_of_cpp_bjarne/src/imgs/file-system.png",
     "tour_of_cpp_bjarne/src/imgs/path-class.png",
     "tour_of_cpp_bjarne/src/imgs/shorthand.png",
-    "tour_of_cpp_bjarne/src/imgs/characterclass.png",
-    "tour_of_cpp_bjarne/src/imgs/longandshortstring.png",
-    "tour_of_cpp_bjarne/09. Library Overview.md",
-    "tour_of_cpp_bjarne/08. Concepts and Generic Programming.md",
-    "tour_of_cpp_bjarne/07.  Templates.md",
-    "tour_of_cpp_bjarne/06. Essential Operations.md",
-    "tour_of_cpp_bjarne/04. Error Handling.md",
-    "tour_of_cpp_bjarne/03.  Modularity.md",
-    "tour_of_cpp_bjarne/02. User-Defined Types.md",
-    "tour_of_cpp_bjarne/src/chapter-03/declaration_test/note.text",
-    "tour_of_cpp_bjarne/src/chapter-03/declaration_test/printer",
-    "tour_of_cpp_bjarne/01. The Basics.md",
-    "intro_to_java_daniel_liang/Chapter 15 Event-Driven Programming and Animations.md",
-    "tour_of_cpp_bjarne/previous/Chapter 01.md",
-    "Time Table.md",
-    "intro_to_java_daniel_liang/Chapter 19. Generics.md",
-    "intro_to_java_daniel_liang/Chapter 20->30 (Refresher) Data Structures in Java.md",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
 }
