@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
+                "file": "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core/1.3 The Network Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 Synchronizing concurrent operations"
+              "title": "1.3 The Network Core"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "placebo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,10 +171,26 @@
   },
   "active": "fc4304539e150680",
   "lastOpenFiles": [
+    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Nodal Delay.png",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/The_Internet_and_Access_Networks/Chapter 01. The Internet.md",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core/1.3 The Network Core.md",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/The_Internet_and_Access_Networks",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Ethernet Internet acess.png",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/DSL Internet.png",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Cable internet.png",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs",
+    "tour_of_cpp_bjarne/12. Containers.md",
+    "tour_of_cpp_bjarne/09. Library Overview.md",
+    "tour_of_cpp_bjarne/10. Strings and Regular Expressions.md",
+    "tour_of_cpp_bjarne/02. User-Defined Types.md",
+    "tour_of_cpp_bjarne/07.  Templates.md",
+    "tour_of_cpp_bjarne/01. The Basics.md",
+    "tour_of_cpp_bjarne/16. Utilities.md",
+    "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
     "concurrency_in_action/src/imgs/thread_safe.png",
     "concurrency_in_action/src/imgs/std-queue.png",
     "tour_of_cpp_bjarne/18. Concurrency.md",
-    "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
     "concurrency_in_action/3.0 Sharing data between threads.md",
     "intro_to_java_daniel_liang/Chapter 7. Single Dimensional Arrays.md",
     "intro_to_java_daniel_liang/Chapter 8. Multidimensional Arrays.md",
@@ -193,29 +210,13 @@
     "concurrency_in_action/src/imgs",
     "concurrency_in_action/src",
     "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
-    "Untitled.md",
     "concurrency_in_action",
     "Books/Untitled",
     "tour_of_cpp_bjarne/src/imgs/type-gens.png",
-    "tour_of_cpp_bjarne/END.md",
-    "tour_of_cpp_bjarne/17. Numerics.md",
-    "intro_to_java_daniel_liang/MOOC Java Course Notes/Part 1/03. Reading Input.md",
-    "tour_of_cpp_bjarne/10. Strings and Regular Expressions.md",
     "tour_of_cpp_bjarne/src/chapter-17/random_histogram",
-    "tour_of_cpp_bjarne/src/chapter-17/main.cpp",
-    "tour_of_cpp_bjarne/src/chapter-17/rando_int.cpp",
-    "tour_of_cpp_bjarne/src/chapter-17/rando.h",
-    "tour_of_cpp_bjarne/16. Utilities.md",
-    "tour_of_cpp_bjarne/05. Classes.md",
-    "tour_of_cpp_bjarne/15. Pointers and Containers.md",
-    "tour_of_cpp_bjarne/14. Ranges.md",
     "tour_of_cpp_bjarne/src/imgs/algo_iter_cntr_Model.png",
     "tour_of_cpp_bjarne/src/imgs/unoderedmap.png",
     "tour_of_cpp_bjarne/src/imgs/map.png",
-    "tour_of_cpp_bjarne/src/imgs/list.png",
-    "tour_of_cpp_bjarne/src/imgs/file-system.png",
-    "tour_of_cpp_bjarne/src/imgs/path-class.png",
-    "tour_of_cpp_bjarne/src/imgs/shorthand.png",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
 }
