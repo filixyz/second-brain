@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core/1.3 The Network Core.md",
+                "file": "networking/Computer Networking James F Kurose, Keith W. Ross/1.5-1.6 Protocol Layers And Threats in the Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 The Network Core"
+              "title": "1.5-1.6 Protocol Layers And Threats in the Internet"
             }
           }
         ]
@@ -171,9 +171,11 @@
   },
   "active": "fc4304539e150680",
   "lastOpenFiles": [
+    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Internet-Stack.png",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/1.3-1.4 The Network Core.md",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/1.0-1.2 The Internet.md",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/1.5-1.6 Protocol Layers And Threats in the Internet.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Nodal Delay.png",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/The_Internet_and_Access_Networks/Chapter 01. The Internet.md",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core/1.3 The Network Core.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core",
     "networking/Computer Networking James F Kurose, Keith W. Ross/The_Internet_and_Access_Networks",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Ethernet Internet acess.png",
@@ -209,14 +211,12 @@
     "concurrency_in_action/src/imgs/interface_race.png",
     "concurrency_in_action/src/imgs",
     "concurrency_in_action/src",
-    "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
     "concurrency_in_action",
     "Books/Untitled",
     "tour_of_cpp_bjarne/src/imgs/type-gens.png",
     "tour_of_cpp_bjarne/src/chapter-17/random_histogram",
     "tour_of_cpp_bjarne/src/imgs/algo_iter_cntr_Model.png",
     "tour_of_cpp_bjarne/src/imgs/unoderedmap.png",
-    "tour_of_cpp_bjarne/src/imgs/map.png",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
 }
