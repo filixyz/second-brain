@@ -170,6 +170,9 @@
   },
   "active": "fc4304539e150680",
   "lastOpenFiles": [
+    "networking/Computer Networking James F Kurose, Keith W. Ross/src/UDPServer.py",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/src/UDPClient.py",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/src",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.4-2.5 DNS and P2P.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.7 Socket Programming-Creating Network Applications.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.2-2.3 The Web, HTTP and the Electronic Mail.md",
@@ -207,15 +210,12 @@
     "intro_to_java_daniel_liang/Chapter 14. JavaFx Basics.md",
     "intro_to_java_daniel_liang/Chapter 15 Event-Driven Programming and Animations.md",
     "intro_to_java_daniel_liang/Chapter 16. Java UI Control and multimedia.md",
-    "intro_to_java_daniel_liang/Chapter 17 Binary I-O.md",
     "Books/Computer Architecture and Operating Systems/Computer Organization and Design- The Hardware_Software Interface.pdf",
     "Books/Computer Architecture and Operating Systems/Digital Design Global Edition (Michael Ciletti M. Morris Mano) (Z-Library).pdf",
     "concurrency_in_action/src/imgs/interface_race.png",
     "concurrency_in_action/src/imgs",
     "concurrency_in_action/src",
     "concurrency_in_action",
-    "Books/Untitled",
-    "tour_of_cpp_bjarne/src/chapter-17/random_histogram",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
 }
