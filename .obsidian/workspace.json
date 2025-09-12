@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/Computer Networking James F Kurose, Keith W. Ross/2.2-2.3 The Web, HTTP and the Electronic Mail.md",
+                "file": "networking/Computer Networking James F Kurose, Keith W. Ross/2.7 Socket Programming-Creating Network Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2-2.3 The Web, HTTP and the Electronic Mail"
+              "title": "2.7 Socket Programming-Creating Network Applications"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a8f35661ddeb08",
@@ -171,10 +170,12 @@
   },
   "active": "fc4304539e150680",
   "lastOpenFiles": [
+    "networking/Computer Networking James F Kurose, Keith W. Ross/2.4-2.5 DNS and P2P.md",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/2.7 Socket Programming-Creating Network Applications.md",
+    "networking/Computer Networking James F Kurose, Keith W. Ross/2.2-2.3 The Web, HTTP and the Electronic Mail.md",
     "Pasted image 20250909184058.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/General HTTP request.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.0-2-1 Application Layer.md",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/2.2-2.3 The Web, HTTP and the Electronic Mail.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/1.5-1.6 Protocol Layers And Threats in the Internet.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Internet-Stack.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/1.3-1.4 The Network Core.md",
@@ -207,7 +208,6 @@
     "intro_to_java_daniel_liang/Chapter 15 Event-Driven Programming and Animations.md",
     "intro_to_java_daniel_liang/Chapter 16. Java UI Control and multimedia.md",
     "intro_to_java_daniel_liang/Chapter 17 Binary I-O.md",
-    "intro_to_java_daniel_liang/Chapter 20->30 (Refresher) Data Structures in Java.md",
     "Books/Computer Architecture and Operating Systems/Computer Organization and Design- The Hardware_Software Interface.pdf",
     "Books/Computer Architecture and Operating Systems/Digital Design Global Edition (Michael Ciletti M. Morris Mano) (Z-Library).pdf",
     "concurrency_in_action/src/imgs/interface_race.png",
@@ -215,7 +215,6 @@
     "concurrency_in_action/src",
     "concurrency_in_action",
     "Books/Untitled",
-    "tour_of_cpp_bjarne/src/imgs/type-gens.png",
     "tour_of_cpp_bjarne/src/chapter-17/random_histogram",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
