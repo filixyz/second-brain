@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_in_action/5.0 C++ Memory model.md",
+                "file": "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.0 C++ Memory model"
+              "title": "6.0 Designing lock-based concurrent data structures"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
+                "file": "concurrency_in_action/5.0 C++ Memory model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.0 Synchronizing concurrent operations"
+              "title": "Outline of 5.0 C++ Memory model"
             }
           }
         ],
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,19 +171,25 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
-    "concurrency_in_action/4.The Ending of Chapter Four, Fuck..md",
     "concurrency_in_action/5.0 C++ Memory model.md",
+    "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
+    "2025 GOALS.md",
+    "tour_of_cpp_bjarne/18. Concurrency.md",
+    "tour_of_cpp_bjarne/END.md",
+    "concurrency_in_action/4.The Ending of Chapter Four, Fuck..md",
     "concurrency_in_action/4.4 Synchronization mechanisms to simplify code.md",
     "concurrency_in_action/4.3 Time Management in C++ Concurrency.md",
     "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
+    "concurrency_in_action/3.0 Sharing data between threads.md",
+    "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
+    "concurrency_in_action/src/synchronizes-with",
+    "concurrency_in_action/src/imgs/release-sequence.png",
     "concurrency_in_action/src/Untitled.md",
     "concurrency_in_action/src/imgs/ATM-state-machine.png",
     "tour_of_cpp_bjarne/01. The Basics.md",
     "tour_of_cpp_bjarne/01..md",
     "concurrency_in_action/src/epoch.cpp",
     "concurrency_in_action/src/days.cpp",
-    "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
-    "concurrency_in_action/3.0 Sharing data between threads.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/3.0-3.2 Transport Layer, Multiplexing and Demultiplexing.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.7 Socket Programming-Creating Network Applications.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.0-2-1 Application Layer.md",
@@ -209,14 +215,8 @@
     "tour_of_cpp_bjarne/09. Library Overview.md",
     "tour_of_cpp_bjarne/10. Strings and Regular Expressions.md",
     "tour_of_cpp_bjarne/02. User-Defined Types.md",
-    "tour_of_cpp_bjarne/07.  Templates.md",
-    "tour_of_cpp_bjarne/16. Utilities.md",
     "concurrency_in_action/src/imgs/thread_safe.png",
-    "concurrency_in_action/src/imgs/std-queue.png",
-    "tour_of_cpp_bjarne/18. Concurrency.md",
-    "intro_to_java_daniel_liang/Chapter 7. Single Dimensional Arrays.md",
     "Books/Computer Architecture and Operating Systems/Computer Organization and Design- The Hardware_Software Interface.pdf",
-    "Books/Computer Architecture and Operating Systems/Digital Design Global Edition (Michael Ciletti M. Morris Mano) (Z-Library).pdf",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
 }
