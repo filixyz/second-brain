@@ -185,10 +185,10 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
-    "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
-    "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
-    "Untitled.md",
     "concurrency_in_action/8.0 Designing Concurrent Code.md",
+    "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
+    "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
+    "Untitled.md",
     "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
     "concurrency_in_action/4.The Ending of Chapter Four, Fuck..md",
     "concurrency_in_action/5.0 C++ Memory model.md",
