@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
+                "file": "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.3 Designing Data Structures for Multi-Threaded Performance"
+              "title": "8.4.2 Scalability and Amdahl's law"
             }
           },
           {
@@ -185,8 +185,10 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
-    "concurrency_in_action/8.0 Designing Concurrent Code.md",
     "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
+    "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
+    "Untitled.md",
+    "concurrency_in_action/8.0 Designing Concurrent Code.md",
     "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
     "concurrency_in_action/4.The Ending of Chapter Four, Fuck..md",
     "concurrency_in_action/5.0 C++ Memory model.md",
@@ -228,8 +230,6 @@
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Ethernet Internet acess.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/DSL Internet.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Cable internet.png",
-    "tour_of_cpp_bjarne/12. Containers.md",
-    "tour_of_cpp_bjarne/09. Library Overview.md",
     "concurrency_in_action/src/imgs/thread_safe.png",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
