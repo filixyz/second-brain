@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
+                "file": "concurrency_in_action/9.0 Advanced thread management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.4.2 Scalability and Amdahl's law"
-            }
-          },
-          {
-            "id": "a17af50aae04e0de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "9.0 Advanced thread management"
             }
           }
         ]
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a8f35661ddeb08",
@@ -155,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concurrency_in_action/8.0 Designing Concurrent Code.md",
+                "file": "concurrency_in_action/9.0 Advanced thread management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8.0 Designing Concurrent Code"
+              "title": "Outline of 9.0 Advanced thread management"
             }
           }
         ],
@@ -185,6 +172,8 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
+    "concurrency_in_action/8.5 Designing concurrent code in practice.md",
+    "concurrency_in_action/9.0 Advanced thread management.md",
     "concurrency_in_action/8.0 Designing Concurrent Code.md",
     "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
     "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
@@ -223,8 +212,6 @@
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/General HTTP request.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/1.5-1.6 Protocol Layers And Threats in the Internet.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Internet-Stack.png",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/1.3-1.4 The Network Core.md",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/1.0-1.2 The Internet.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Nodal Delay.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Ethernet Internet acess.png",
