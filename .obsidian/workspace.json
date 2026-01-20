@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70a8f35661ddeb08",
@@ -172,16 +173,16 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
-    "concurrency_in_action/8.5 Designing concurrent code in practice.md",
+    "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
     "concurrency_in_action/9.0 Advanced thread management.md",
-    "concurrency_in_action/8.0 Designing Concurrent Code.md",
+    "concurrency_in_action/8.5 Designing concurrent code in practice.md",
     "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
     "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
+    "concurrency_in_action/8.0 Designing Concurrent Code.md",
     "Untitled.md",
     "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
     "concurrency_in_action/4.The Ending of Chapter Four, Fuck..md",
     "concurrency_in_action/5.0 C++ Memory model.md",
-    "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
     "concurrency_in_action/src/test_top.cpp",
     "concurrency_in_action/src/linked_list_queue.cpp",
     "concurrency_in_action/src/spinlock.cpp",
