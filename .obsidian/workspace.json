@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_in_action/9.0 Advanced thread management.md",
+                "file": "concurrency_in_action/10 Parallel algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.0 Advanced thread management"
+              "title": "10 Parallel algorithms"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a8f35661ddeb08",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concurrency_in_action/9.0 Advanced thread management.md",
+                "file": "concurrency_in_action/10 Parallel algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9.0 Advanced thread management"
+              "title": "Outline of 10 Parallel algorithms"
             }
           }
         ],
@@ -173,13 +172,15 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
-    "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
+    "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
     "concurrency_in_action/9.0 Advanced thread management.md",
     "concurrency_in_action/8.5 Designing concurrent code in practice.md",
-    "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
+    "concurrency_in_action/10 Parallel algorithms.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
     "concurrency_in_action/8.3 Designing Data Structures for Multi-Threaded Performance.md",
     "concurrency_in_action/8.0 Designing Concurrent Code.md",
-    "Untitled.md",
     "concurrency_in_action/2.4 Choosing the number of threads at runtime.md",
     "concurrency_in_action/4.The Ending of Chapter Four, Fuck..md",
     "concurrency_in_action/5.0 C++ Memory model.md",
@@ -208,10 +209,8 @@
     "networking/Computer Networking James F Kurose, Keith W. Ross/src/UDPServer.py",
     "networking/Computer Networking James F Kurose, Keith W. Ross/src/UDPClient.py",
     "networking/Computer Networking James F Kurose, Keith W. Ross/src",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/2.2-2.3 The Web, HTTP and the Electronic Mail.md",
     "Pasted image 20250909184058.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/General HTTP request.png",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/1.5-1.6 Protocol Layers And Threats in the Internet.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Internet-Stack.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Nodal Delay.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core",
