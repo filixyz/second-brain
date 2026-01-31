@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "10 Parallel algorithms"
             }
+          },
+          {
+            "id": "1375beb94afd026b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ]
       }
@@ -172,10 +184,15 @@
   },
   "active": "9cbaca0a1bd88c70",
   "lastOpenFiles": [
+    "concurrency_in_action/src/imgs/thread_safe.png",
+    "concurrency_in_action/src/imgs/std-queue.png",
+    "concurrency_in_action/src/imgs/release-sequence.png",
+    "concurrency_in_action/src/imgs/interface_race.png",
+    "concurrency_in_action/src/imgs/ATM-state-machine.png",
+    "concurrency_in_action/10 Parallel algorithms.md",
     "concurrency_in_action/8.4.2 Scalability and Amdahl's law.md",
     "concurrency_in_action/9.0 Advanced thread management.md",
     "concurrency_in_action/8.5 Designing concurrent code in practice.md",
-    "concurrency_in_action/10 Parallel algorithms.md",
     "Untitled 1.md",
     "Untitled.md",
     "concurrency_in_action/6.0 Designing lock-based concurrent data structures.md",
@@ -195,9 +212,7 @@
     "concurrency_in_action/4.0 Synchronizing concurrent operations.md",
     "concurrency_in_action/3.0 Sharing data between threads.md",
     "concurrency_in_action/src/synchronizes-with",
-    "concurrency_in_action/src/imgs/release-sequence.png",
     "concurrency_in_action/src/Untitled.md",
-    "concurrency_in_action/src/imgs/ATM-state-machine.png",
     "tour_of_cpp_bjarne/01. The Basics.md",
     "tour_of_cpp_bjarne/01..md",
     "concurrency_in_action/src/epoch.cpp",
@@ -205,7 +220,6 @@
     "networking/Computer Networking James F Kurose, Keith W. Ross/3.0-3.2 Transport Layer, Multiplexing and Demultiplexing.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.7 Socket Programming-Creating Network Applications.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/2.0-2-1 Application Layer.md",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/2.4-2.5 DNS and P2P.md",
     "networking/Computer Networking James F Kurose, Keith W. Ross/src/UDPServer.py",
     "networking/Computer Networking James F Kurose, Keith W. Ross/src/UDPClient.py",
     "networking/Computer Networking James F Kurose, Keith W. Ross/src",
@@ -216,8 +230,6 @@
     "networking/Computer Networking James F Kurose, Keith W. Ross/The_Network_Core",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Ethernet Internet acess.png",
     "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/DSL Internet.png",
-    "networking/Computer Networking James F Kurose, Keith W. Ross/imgs/Cable internet.png",
-    "concurrency_in_action/src/imgs/thread_safe.png",
     "intro_to_java_daniel_liang/Untitled.canvas"
   ]
 }
